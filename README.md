@@ -4,8 +4,17 @@
 
 🤔 I’m looking for help with Android
 
+<p align="center">
+<img src="https://media.giphy.com/media/ShoVlIk8TdFUnHhS3x/giphy.gif" width='200'alt="Learn Together"/>
+</p>
+<br/>
+
 ## 📫 How to reach me:
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sercanesen)
+
+<a href="https://linkedin.com/in/sercanesen"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/linkedin.png" alt="LinkedIn" width="60" align="center"/></a>
+<a href="https://medium.com/@sercan1esen"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/medium-new.png" alt="Medium" width="60" align="center"/></a>
+<a href="mailto:sercan1esen@gmail.com"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/gmail.png" alt="Gmail" width="52" align="center"/></a><br/>
+
 
 
 
